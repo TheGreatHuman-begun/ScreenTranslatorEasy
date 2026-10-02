@@ -1,0 +1,5 @@
+PySide6>=6.7
+mss>=9.0
+Pillow>=10.0
+pytesseract>=0.3.13
+argostranslate>=1.9
